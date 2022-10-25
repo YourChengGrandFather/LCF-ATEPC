@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-# file: train.py
-# author: yangheng <yangheng@m.scnu.edu.cn>
-# Copyright (C) 2019. All Rights Reserved.
-
 import argparse
 import json
 import logging
